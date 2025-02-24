@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/pwc-eds-sandbox/:/",
+    "/content/pwc-eds-sandbox/configuration:/.helix/config.json",
+    "/content/pwc-eds-sandbox/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/pwc-eds-sandbox/"
   ]
 }
