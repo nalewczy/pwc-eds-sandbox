@@ -190,5 +190,38 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "separator",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "text",
+        "label": "Text",
+        "description": "The text you want shown in your separator"
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "label": "Background Color",
+        "description": "The separator background color",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Red",
+            "value": "bg-red"
+          },
+          {
+            "name": "Green",
+            "value": "bg-green"
+          },
+          {
+            "name": "Blue",
+            "value": "bg-blue"
+          }
+        ]
+      }
+    ]
   }
 ]
