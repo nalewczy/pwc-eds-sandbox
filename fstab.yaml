@@ -5,5 +5,3 @@ mountpoints:
     suffix: ".html"
   /docpart:
     url: "https://drive.google.com/drive/u/0/folders/1EvL6yM5C8_IKh_YqTtsmxzy-Cka22Bgk"
-    type: "markup"
-    suffix: ".html"
