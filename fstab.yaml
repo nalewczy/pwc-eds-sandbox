@@ -1,5 +1,5 @@
 mountpoints:
-  /docpart: "https://drive.google.com/drive/u/0/folders/1EvL6yM5C8_IKh_YqTtsmxzy-Cka22Bgk"
+  /docpart: https://drive.google.com/drive/u/0/folders/1EvL6yM5C8_IKh_YqTtsmxzy-Cka22Bgk
   /:
     url: "https://author-p122975-e1559787.adobeaemcloud.com/bin/franklin.delivery/nalewczy/pwc-eds-sandbox/main"
     type: "markup"
